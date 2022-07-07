@@ -1,5 +1,6 @@
+
 {
-  "name": "filmtopia",
+  "name": "allmovieversionsapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
